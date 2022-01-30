@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1082099731884-evn5uq81k3bqbtjrfdlf1h151ki9mobo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1082099731884</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmyfBS9vocWMyeftoeWX_2-KRL_dDeSe4</string>
+    <string name="google_app_id" translatable="false">1:1082099731884:android:e9cef85e089cadc4767e09</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmyfBS9vocWMyeftoeWX_2-KRL_dDeSe4</string>
+    <string name="google_storage_bucket" translatable="false">hr-manager-bff6e.appspot.com</string>
+    <string name="project_id" translatable="false">hr-manager-bff6e</string>
+</resources>

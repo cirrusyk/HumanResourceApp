@@ -1,0 +1,9 @@
+
+
+
+analyzer:
+  exclude:
+
+linter:
+  rules:
+    avoid_print: false

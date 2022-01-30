@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082099731884",
+    "project_id": "hr-manager-bff6e",
+    "storage_bucket": "hr-manager-bff6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082099731884:android:e9cef85e089cadc4767e09",
+        "android_client_info": {
+          "package_name": "com.cirrusyk.human_resource_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082099731884-evn5uq81k3bqbtjrfdlf1h151ki9mobo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmyfBS9vocWMyeftoeWX_2-KRL_dDeSe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082099731884-evn5uq81k3bqbtjrfdlf1h151ki9mobo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

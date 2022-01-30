@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/hrm/human_resource_management/MainActivity.java
+ com.hrm.human_resource_management.MainActivity
+com/hrm/human_resource_management/BuildConfig.java
+ com.hrm.human_resource_management.BuildConfig
